@@ -1,0 +1,81 @@
+html {
+    height: 100px;
+    width: 100px;
+}
+
+
+header {
+    /* background-color: black; */
+    height: 180px;
+    width: 1024px;
+    text-align: center;
+}
+
+nav {
+    background-color: rgba(178, 34, 34, 0.274);
+    height: 80px;
+    width: 1024px;
+    padding-top: 40px;
+
+}
+
+nav a {
+    font-size: 18px;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-decoration: none;
+    color: wheat;
+   
+}
+
+body {
+    background-color: gray;
+    padding-left: 150px;
+    padding-right: 150px;
+    background-image: url(/images_3_background.png);
+ 
+
+}
+
+
+main {
+    /* background-color: indianred; */
+    height: 400px;
+    width: 1024px;
+    text-align: center;
+    
+}
+
+
+main a {
+    text-decoration: none;
+    color:rgba(0, 0, 0, 0.63); 
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.301);
+    height: 100px;
+    width: 1024px;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    color: wheat;
+
+}
+
+P {
+    font-size: 26px;
+    text-align: center;
+    color: wheat;
+}
+
+footer {
+    font-size: 20px;
+    text-align: center;
+    color: wheat;
+    padding-top: 50px;
+
+}
